@@ -5,7 +5,7 @@ let pessoa = {
 };
 
 
-pessoa.profissao = "Militar";
+pessoa.profissao = "Militarnp";
 console.log("Após adicionar profissão:", pessoa);
 
 
