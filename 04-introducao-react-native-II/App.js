@@ -17,6 +17,8 @@ export default function App() {
   return (
     <ScrollView>
 
+      <view></view>
+
       <View style={styles.container}>
         <StatusBar style="auto" />
 
@@ -43,13 +45,13 @@ export default function App() {
             width: 300
           }}
         />
-        
+
 
 
       </View>
 
 
-    </ScrollView>    
+    </ScrollView>
   );
 }
 
