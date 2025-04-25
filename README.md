@@ -1,5 +1,5 @@
 # Programação para Dispositivos Móveis
 
 Turma 2C
-
-Repositório do Professor
+Aluno: Thiago Ribeiroda Silva
+23214290014
